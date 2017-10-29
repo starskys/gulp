@@ -72,7 +72,7 @@
   ['revJs'],
   'revHtml',  
   'refreshOriginFiles',  
-   //'cleanFile',
+   'cleanFile',
   done);});
   gulp.task('default', ['dev']);
   
